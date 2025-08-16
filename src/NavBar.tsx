@@ -10,7 +10,7 @@ export function NavBar() {
       <ul className="space-y-4">
         <li><a href="/home" className="hover:text-blue-400">  </a></li>
         <li><a href="/projects" className="hover:text-blue-400 text-4xl">Projects</a></li>
-        <li><a href="/writing" className="hover:text-blue-400 text-2xl"> Writing</a></li>
+        <li><a href="/blogs" className="hover:text-blue-400 text-2xl"> Writing</a></li>
         <li><a href="/mission" className="hover:text-blue-400 text-2xl">Mission</a></li>
       </ul>
     </nav>

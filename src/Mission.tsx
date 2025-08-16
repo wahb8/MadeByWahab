@@ -23,7 +23,7 @@ export function MissionPage(){
 					<h2 className="text-xl text-white text-lg text-left mb-6"> (I am human after all). Otherwise, I will try to make everything I build open and for free to all people to use. I also think I'm not going to build anything that requires me to sell for money anytime soon (at least in the next two years) so chances are all of my current projects/apps are for free and open to use.</h2>
 
 					<h2 className="text-xl text-white text-lg text-left mb-6"> :) </h2>	
-					<h4 className="text-l text-white text-center">P.S. Yes, I know my UI skills are insane</h4>
+					<h4 className="text-l text-white text-center">P.S. Yes, I know my UI skills are insane thank you very much</h4>
 				</div>
 			</main>
 		</div>
